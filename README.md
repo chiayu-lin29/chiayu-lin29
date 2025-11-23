@@ -1,6 +1,18 @@
 ## Hi there 👋
 
+## 🙋‍♂️ About Me
 
+🎓 **M.Sc. Candidate in Computer Science** with a strong foundation in scalable system design and architecture.
+
+📊 I am passionate about **Data Analytics and Machine Learning**, specializing in extracting actionable insights from complex datasets and building predictive models.
+
+📈 My current focus is on an **NLP-driven project** for **Taiwan Stock Market Analysis** using news sentiment data.
+
+🏥 I have a deep interest in the **Healthcare domain**, seeking to apply data solutions to drive better patient outcomes and resource efficiency.
+
+---
+
+🍷 **Fun Fact:** My coding fuel during the festive season is copious amounts of **Glühwein** (mulled wine).
 <!--
 **chiayu-lin29/chiayu-lin29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
